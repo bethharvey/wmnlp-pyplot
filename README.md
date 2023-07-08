@@ -1,4 +1,12 @@
+# Web Mining and Applied NLP
+
+* Beth Harvey
+* Module 3
+* July 6, 2023
+
 # Matplotlib and pyplot
+
+The goal of this project is to practice using Matplotlib and pyplot in Jupyter Notebooks to create Python visualizations.
 
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
